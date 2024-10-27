@@ -3,9 +3,11 @@ repository that collects all the projects made during a creative coding course o
 
 ## javascript events
 
-one event only - 
+one event only 
 
-[very cool link](url) 
+mouseX controls video's volume
+
+[project](https://larobernasconi.github.io/creative_coding/volume/) 
 
 two events - 
 
