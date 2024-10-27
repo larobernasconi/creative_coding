@@ -7,7 +7,7 @@ one event only
 
 mouseX controls video's volume
 
-[project](https://larobernasconi.github.io/creative_coding/volume/) 
+[project](https://larobernasconi.github.io/creative_coding/volume/index.html) 
 
 two events - 
 
